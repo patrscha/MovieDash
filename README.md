@@ -19,15 +19,15 @@ DATABASE
 
 FEATURES
 ------------
--Search via title
--filter by genre
--get cover photo when missing
--select movie --> info page with rating, description, other IMDB info --> PLAY  --> Open in VLC (if it's possible to force)
--Enable/Disable subtitles when avaialiale
+-Search via title<br>
+-filter by genre<br>
+-get cover photo when missing<br>
+-select movie --> info page with rating, description, other IMDB info --> PLAY  --> Open in VLC (if it's possible to force)<br>
+-Enable/Disable subtitles when avaialiale<br>
 
 USAGE
 ------------
-1)First open will ask for directory where movies are stored (this can always be changed in settings)
-2)Service scans all subdirectories and all with video files are added to DB
-3)Main dashboard is presented showing all movies with cover and title arranged to screen responsive grid
-4)???
+1)First open will ask for directory where movies are stored (this can always be changed in settings)<br>
+2)Service scans all subdirectories and all with video files are added to DB<br>
+3)Main dashboard is presented showing all movies with cover and title arranged to screen responsive grid<br>
+4)???<br>
